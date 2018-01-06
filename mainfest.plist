@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://101.132.142.152:8080/yecz-test/newIosVersionApp.ipa</string>
+					<string>http://101.132.142.152:8080/newIosVersionApp.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://101.132.142.152:8080/yecz-test/icon512.jpg</string>
+					<string>http://101.132.142.152:8080/icon512.jpg</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://101.132.142.152:8080/yecz-test/icon57.jpg</string>
+					<string>http://101.132.142.152:8080/icon57.jpg</string>
 				</dict>
 			</array>
 			<key>metadata</key>
