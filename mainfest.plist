@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://101.132.142.152:8080/newIosVersionApp.ipa</string>
+					<string>http://101.132.142.152/newIosVersionApp.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://101.132.142.152:8080/icon512.jpg</string>
+					<string>http://101.132.142.152/icon512.jpg</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://101.132.142.152:8080/icon57.jpg</string>
+					<string>http://101.132.142.152/icon57.jpg</string>
 				</dict>
 			</array>
 			<key>metadata</key>
