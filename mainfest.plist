@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://101.132.142.152:8080/business_icon512.jpg</string>
+					<string>http://101.132.142.152:8080/business_icon512.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,13 +27,13 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://101.132.142.152:8080/business_icon57.jpg</string>
+					<string>http://101.132.142.152:8080/business_icon57.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.ruishitech.ytlottery</string>
+				<string>com.ruishitech.YTLotteryBusiness</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
